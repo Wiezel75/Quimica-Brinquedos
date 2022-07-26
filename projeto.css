@@ -1,0 +1,17 @@
+body{
+    color: rgb(203, 242, 74);
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display:flex;
+    justify-content:space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+ }
+ #ladoalado{
+    float:left;
+    margin:auto;
+ }
+  
